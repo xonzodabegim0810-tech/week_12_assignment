@@ -1,0 +1,8 @@
+Alice,Sales,45,25.00
+Bob,IT,40,35.00
+Charlie,Sales,38,25.00
+David,IT,50,35.00
+Eve,HR,40,30.00
+Frank,Sales,40,25.00
+Error,Data,Missing
+Grace,HR,42,30.00
